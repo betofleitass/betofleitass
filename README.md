@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## 📈   Some of my stats are:
 
 <p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betofleitass" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betofleitass&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=betofleitass" />
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=betofleitass&show_icons=true&theme=tokyonight" />
 </p>
