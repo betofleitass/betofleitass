@@ -1,29 +1,23 @@
-<!-- 
-- 🔭 I’m currently working on ... 
-- 👯 I’m looking to collaborate on ... 
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
---> 
-
 ## Hi there, I'm Alberto! <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> 
 
 - 😁 I am a student at [National University Of Asunción](https://www.una.py/english) majoring in Computer Science. 
 - 😄 Pronouns: He/Him
-- 💬 Connect with me: <p>
+- 💬 Connect with me: 
+<p>
   <a href="https://www.linkedin.com/in/fleitas-alberto/"> <img src="https://img.shields.io/badge/Alberto Fleitas-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /> <a/>
   <a> <img src="https://img.shields.io/badge/-betofleitascarduspy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:betofleitascarduspy@gmail.com)](mailto:betofleitascarduspy@gmail.com)"/> </a>
 </p>
 
 ## Main Tech Stack :rocket:
 
-### Front End: 
+### Front End
   <p align="left">
     <a> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white "/><a/> 
     <a> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <a/>
     <a> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" /> <a/>
   </p>
       
-### Back End: 
+### Back End 
   <p align="left">
     <a> <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue" /> <a/> 
     <a> <img src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" /> <a/>
@@ -53,8 +47,15 @@
 
 ### What I am interested in learning
 
-### What I have basic knowledge
-    
+### Basic knowledge
+<p>
+  <a> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white" /> </a>
+  <a> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" /> </a>
+  <a> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" /> </a>
+  <a> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" /> </a>
+  <a> <img src="https://img.shields.io/badge/PLSQL-F80000?style=flat&logo=oracle&logoColor=white" /> </a>
+</p>
+
 ## Some of my stats are 📈
 <div align='center'>
   <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betofleitass&layout=compact&show_icons=true&theme=tokyonight" /> <a/> 
