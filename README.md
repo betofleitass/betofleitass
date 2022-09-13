@@ -1,6 +1,3 @@
-## Hi there, I'm Alberto! <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> 
-
-
 <!-- 
 - 🔭 I’m currently working on ... 
 - 👯 I’m looking to collaborate on ... 
@@ -8,13 +5,16 @@
 - ⚡ Fun fact: ...
 --> 
 
-- 🌱 I’m currently learning Django
-- 🤔 I’m looking for help with Back End Development
+## Hi there, I'm Alberto! <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> 
+
+- 😁 I am a student at [National University Of Asunción](https://www.una.py/english) majoring in Computer Science. 
 - 😄 Pronouns: He/Him
+- 💬 Connect with me: <p>
+  <a href="https://www.linkedin.com/in/fleitas-alberto/"> <img src="https://img.shields.io/badge/Alberto Fleitas-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /> <a/>
+  <a> <img src="https://img.shields.io/badge/-betofleitascarduspy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:betofleitascarduspy@gmail.com)](mailto:betofleitascarduspy@gmail.com)"/> </a>
+</p>
 
-
-
-## Tech Stack :computer:
+## Main Tech Stack :rocket:
 
 ### Front End: 
   <p align="left">
@@ -42,35 +42,25 @@
   <a> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <a/>
   <a> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" /> <a/>
   <a> <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /> <a/>
-  <a> <img src="https://img.shields.io/badge/Git-100000?style=flat&logo=github&logoColor=white" /> <a/>
+  <a> <img src="https://img.shields.io/badge/Git-ff7416?style=flat&logo=git&logoColor=white" /> <a/>
   <a> <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" /> <a/>
   <a> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" /> <a/>
 </p>
 
-## Connect with me:
-<div align='center'>
-  <a href="https://www.linkedin.com/in/fleitas-alberto/">
-    <img src="https://img.shields.io/badge/Alberto Fleitas-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /> <a/>
-  </a>
-  <a> 
-    <img src="https://img.shields.io/badge/-betofleitascarduspy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:betofleitascarduspy@gmail.com)](mailto:betofleitascarduspy@gmail.com)"/>
-  </a>
-</div>
+## Learning 🌱
+    
+### What I am currently learning / improving on
 
-## 📈   Some of my stats are:
+### What I am interested in learning
+
+### What I have basic knowledge
+    
+## Some of my stats are 📈
 <div align='center'>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betofleitass&layout=compact&show_icons=true&theme=tokyonight" /> <a/>
-  </a>
+  <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betofleitass&layout=compact&show_icons=true&theme=tokyonight" /> <a/> 
   <br></br>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=betofleitass&show_icons=true&theme=tokyonight" /> <a/>
+  <a> <img src="https://github-readme-stats.vercel.app/api?username=betofleitass&show_icons=true&theme=tokyonight" /> <a/>
   </a>
-
-  <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=betofleitass&theme=tokyonight&show_icons=true" alt="betofleitass" /> <a/>
-  </a>
-
-  <a ><img align="center" src="https://media2.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="20%"></a>
-  
+  <a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=betofleitass&theme=tokyonight&show_icons=true" alt="betofleitass" /> <a/>
+  <a> <img align="center" src="https://media2.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="20%"> </a>
 </div>
