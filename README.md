@@ -55,21 +55,29 @@ Here are some ideas to get you started:
 </p>
 
 ## Connect with me:
-<p align='center'>
+<div align='center'>
   <a href="https://www.linkedin.com/in/fleitas-alberto/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> <a/>
+    <img src="https://img.shields.io/badge/Alberto Fleitas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> <a/>
   </a>
-</p>
+  <a> 
+    <img src="https://img.shields.io/badge/-betofleitascarduspy@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:betofleitascarduspy@gmail.com)](mailto:betofleitascarduspy@gmail.com)"/>
+  </a>
+</div>
 
 ## 📈   Some of my stats are:
+<div align='center'>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betofleitass&layout=compact&show_icons=true&theme=tokyonight" /> <a/>
+  </a>
+  <br></br>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=betofleitass&show_icons=true&theme=tokyonight" /> <a/>
+  </a>
 
-<p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betofleitass&layout=compact&show_icons=true&theme=tokyonight" /> <a/>
-</p>
-<p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=betofleitass&show_icons=true&theme=tokyonight" /> <a/>
-</p>
+  <a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=betofleitass&theme=tokyonight&show_icons=true" alt="betofleitass" /> <a/>
+  </a>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=betofleitass&theme=tokyonight&show_icons=true" alt="betofleitass" /> <a/>
- </p>
+  <a ><img align="center" src="https://media2.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="20%"></a>
+  
+</div>
