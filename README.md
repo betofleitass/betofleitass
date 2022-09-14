@@ -73,7 +73,7 @@
     </td>
   </tr>
   <tr>
-    <th valign="center">Basic knowledge</th>
+    <th valign="center">Introductory Knowledge</th>
     <td valign="center" align="center">
       <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white" />
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" />
