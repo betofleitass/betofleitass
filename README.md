@@ -1,7 +1,6 @@
 ## Hi there, I'm Alberto! <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> 
 
 - 😁 I am a student at [National University Of Asunción](https://www.una.py/english) majoring in Computer Science. 
-- 😄 Pronouns: He/Him
 - 💬 Connect with me: ⬇️
 <p >
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a  href="https://www.linkedin.com/in/fleitas-alberto/"> <img src="https://img.shields.io/badge/Alberto Fleitas-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /> <a/>
