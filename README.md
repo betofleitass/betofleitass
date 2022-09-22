@@ -88,7 +88,8 @@
 
 ## Some of my stats are 📈
 <div align='center'>
-  <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betofleitass&layout=compact&show_icons=true&theme=tokyonight" /> <a/> 
+  
+  <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betofleitass&show_icons=true&theme=tokyonight" /> <a/>
   <br></br>
   <a> <img src="https://github-readme-stats.vercel.app/api?username=betofleitass&show_icons=true&theme=tokyonight" /> <a/>
   </a>
