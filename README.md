@@ -88,7 +88,7 @@
   </tr>
 </table>
 
-<!--
+
 ## Some of my stats are 📈
 <div align='center'>
   
@@ -99,7 +99,7 @@
   <a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=betofleitass&theme=tokyonight&show_icons=true" alt="betofleitass" /> <a/>
   
 </div>
--->
+
 
 <div align='center'>
   <a> <img align="center" src="https://media2.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="20%"> </a>
