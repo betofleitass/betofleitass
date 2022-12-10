@@ -30,6 +30,7 @@
     <td valign="center" align="center">
       <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green" />
       <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
+      <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -60,8 +61,7 @@
 <table>
   <tr>
     <th valign="center">Currently learning</th>
-    <td valign="center" align="center">
-      <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white" />      
+    <td valign="center" align="center">     
       <img src="https://img.shields.io/badge/Django-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
     </td>
   </tr>
